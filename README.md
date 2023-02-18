@@ -8,7 +8,7 @@ Linux + Windows:
 ```
   git clone https://github.com/peel1/Image-Steg
   
-  cd 5062CEM
+  cd Image-Steg
   
   pip3 install -r requirements.txt
   
