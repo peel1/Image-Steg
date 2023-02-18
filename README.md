@@ -1,4 +1,4 @@
-# 5062 Image Steganography  
+#Image Steganography  
 
 ## Description 
 The script will intake a image and encode any sentance inputted into it in a propriatary format which will only be decryptable using the key provided at the end of encoding. The script will also using the provided key decode any encoding image 
